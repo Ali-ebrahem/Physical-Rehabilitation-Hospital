@@ -34,8 +34,8 @@ The system is menu-driven and runs in the console.
 
 * Admin login & account creation
 * Default admin credentials:
-  * Username:** `admin`
-  * Password:** `123`
+  * Username: `admin`
+  * Password: `123`
 * Separate menus for Admin and User
 
 ---
